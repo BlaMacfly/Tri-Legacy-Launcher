@@ -1,0 +1,34 @@
+# Dossiers de build et distribution
+build/
+dist/
+
+# Environnement virtuel
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de log
+*.log
+
+# Fichiers de données temporaires
+game_time.json
+settings.json
+calendar_events.json
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers de compilation
+*.spec
+!launcher.spec  # Garder le fichier principal de spécification 
