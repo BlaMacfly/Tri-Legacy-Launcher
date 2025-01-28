@@ -22,8 +22,9 @@ Un lanceur moderne et élégant pour World of Warcraft, supportant plusieurs ver
 ## Installation
 
 1. Téléchargez la dernière version depuis la page [Releases](https://github.com/BlaMacfly/Tri-Legacy-Launcher/releases)
-2. Extrayez l'archive dans le dossier de votre choix
-3. Lancez `Tri-Legacy Launcher.exe`
+2. Exécutez l'installateur
+3. Suivez les instructions d'installation
+4. Configurez les chemins de vos jeux dans les paramètres
 
 ## Configuration requise
 
